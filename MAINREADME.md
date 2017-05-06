@@ -28,6 +28,7 @@
 
 ### Step 2: Optimize `main.js`
 > Minified js for arrays.
+
 > Changes in `UpdatePosition()` function.
 * Declaring phase outside the loop as it was being declared again and again.
 > Changes in `document.addEventListener()`.
