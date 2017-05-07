@@ -12,7 +12,7 @@ Open and view the Project at: [Website Optimization Checking](https://madhur-tan
 * [PageSpeed Tools](https://developers.google.com/speed/pagespeed/insights/)
 
 #### Steps to run the app:
-> Open the project through the `hosting link` provided above or through the `.zip` file provided and extract file.
+> Open the project through the `hosting link` provided above or through the `.zip` file provided and extract file. </br>
 > To open `index.html`:
 * Open the main folder.
 * Open `index.html`.
