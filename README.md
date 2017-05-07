@@ -30,8 +30,8 @@ Open and view the Project at: [Website Optimization Checking](https://madhur-tan
 * My score was: 95 for Mobile and 96 for Desktop version.
 
 ### Step 1: Optimizing `index.html`
-> Unlinking style.css and making it internal after minifying it.
-> Using media query "print" on print.css.
+> Unlinking style.css and making it internal after minifying it. </br>
+> Using media query "print" on print.css. </br>
 > Shifting script tags from head to end of body and using async attribute on them.
 
 ## Part 2: Optimize Frames per Second in pizza.html
@@ -41,7 +41,7 @@ Open and view the Project at: [Website Optimization Checking](https://madhur-tan
 > Shifting script tags from head to end of body.
 
 ### Step 2: Optimizing `main.js`
-> Minified js for arrays.
+> Minified js for arrays. </br>
 > Changes in changePizzaSizes()
 * Declaring rPC and dx outside the loop as it was being declared again and again.
 > Changes in `UpdatePosition()` function.
