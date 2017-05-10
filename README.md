@@ -36,6 +36,7 @@ Open and view the Project at: [Website Optimization Checking](https://madhur-tan
 
 ## Part 2: Optimize Frames per Second in pizza.html
 * The aim of this project was to optimize pizza.html to 60 fps scrolling speed.
+* And to reduce the pizzaResizeTime less than 5ms.
 
 ### Step 1: Optimizing `pizza.html`
 > Shifting script tags from head to end of body.
